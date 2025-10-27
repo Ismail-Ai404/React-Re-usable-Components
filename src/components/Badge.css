@@ -1,0 +1,64 @@
+/** @format */
+
+.badge {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 8px;
+	margin: 4px;
+}
+.square {
+	width: 67px;
+	height: 24px;
+	/* angle: 0 deg; */
+	opacity: 1;
+	border-radius: 4px;
+	padding-top: 2px;
+	padding-right: 12px;
+	padding-bottom: 2px;
+	padding-left: 12px;
+}
+.pill {
+	width: 67px;
+	height: 24px;
+	opacity: 1;
+	border-radius: 12px;
+	padding-top: 2px;
+	padding-right: 12px;
+	padding-bottom: 2px;
+	padding-left: 12px;
+}
+body {
+	font-family: Inter;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 20px;
+	letter-spacing: 0%;
+	text-align: center;
+}
+
+.gray {
+	background-color: #f3f4f6;
+	color: #1f2937;
+}
+.red {
+	background-color: #fee2e2;
+	color: #991b1b;
+}
+
+.yellow {
+	background-color: #fef3c7;
+	color: #92400e;
+}
+.green {
+	background-color: #d1fae5;
+	color: #065f46;
+}
+.blue {
+	background-color: #dbeafe;
+	color: #1e40af;
+}
+.pink {
+	background-color: #fce7f3;
+	color: #9d174d;
+}
